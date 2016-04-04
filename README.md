@@ -1,8 +1,9 @@
 # Learn2Learn
 Coursera course -- https://www.coursera.org/learn/learning-how-to-learn
 
-Learning How to Learn: Powerful mental tools to help you master tough subjects
-University of California, San Diego Dr. Barbara Oakley
+# Learning How to Learn: Powerful mental tools to help you master tough subjects
+University of California, San Diego 
+# Dr. Barbara Oakley 
 
 About this Course
 
